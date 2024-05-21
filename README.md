@@ -1,13 +1,15 @@
 # Modern Realtor Form Submition Page
 
-## This Next.js component allows users to create and submit forms for real estate transactions.
-
-## Features
+## Task 1 Features
 
 - **Form Creation**: Easily create forms for different types of real estate transactions.
 - **Form Submission**: Submit forms with relevant information for processing.
 - **Validation**: Validate form fields to ensure accurate data submission.
 - **Download**: Download submitted forms in PDF format for record-keeping.
+
+## Task 2 Features
+
+- **Select Address**: Select the desired address to see the house details.
 
 ## Installation
 
