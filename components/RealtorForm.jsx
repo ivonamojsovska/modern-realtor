@@ -93,7 +93,7 @@ const PurchaseAgreementForm = () => {
             if (Object.values(formValues).some((value) => value === '')) {
                 return;
             }
-            
+
             // Initialize jsPDF instance
             const doc = new jsPDF();
         
@@ -109,7 +109,7 @@ const PurchaseAgreementForm = () => {
     };
 
     return (
-        <div className="w-[80%] md:w-[60%] mx-auto mt-10">
+        <div className="w-[80%] md:w-[60%] mx-auto my-10">
             <h1 className="text-xl font-bold text-center mb-5">CALIFORNIA RESIDENTIAL PURCHASE AGREEMENT AND JOINT ESCROW FORM</h1>
             <form className='grid grid-cols-2 gap-3 h-[70vh] overflow-scroll py-5' onSubmit={(e) => {
                 e.preventDefault();

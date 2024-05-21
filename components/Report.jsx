@@ -20,7 +20,7 @@ const Report = () => {
     };
 
     return (
-        <div className="w-[80%] md:w-[60%] mx-auto mt-10">
+        <div className="w-[80%] md:w-[60%] mx-auto my-10">
             <h1 className='text-xl font-bold mb-5'>Use the Select Input to choose your future home</h1>
             <Grid container spacing={2} alignItems="center">
                 <Grid item xs={8}>
