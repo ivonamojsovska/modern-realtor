@@ -21,6 +21,7 @@ const Report = () => {
 
     return (
         <div className="w-[80%] md:w-[60%] mx-auto mt-10">
+            <h1 className='text-xl font-bold mb-5'>Use the Select Input to choose your future home</h1>
             <Grid container spacing={2} alignItems="center">
                 <Grid item xs={8}>
                     <FormControl fullWidth>
@@ -38,7 +39,8 @@ const Report = () => {
             </Grid>
             {address && (
             <Grid container spacing={2} style={{ marginTop: '20px' }}>
-                <Grid item xs={12} sm={6} md={4} key={home.address}>
+                <Grid item xs={12} sm={6} md={6} key={home.address}>
+                    <h1 className='text-xl font-bold mb-5'>Result:</h1>
                 <Card>
                     <CardMedia
                     component="img"
@@ -47,11 +49,11 @@ const Report = () => {
                     alt={`Image of ${home.address}`}
                     />
                     <CardContent>
-                        <Typography variant="h6" component="div">
-                            {home.address}
+                        <Typography variant="h9" component="div">
+                            <h1 className='font-bold'>Address:</h1>{home.address}
                         </Typography>
                         <Typography variant="body2" color="text.secondary">
-                            ${home.price}/sqft
+                            <h1 className='font-bold text-black mt-3'>Price:</h1>{home.price}/sqft
                         </Typography>
                     </CardContent>
                     </Card>

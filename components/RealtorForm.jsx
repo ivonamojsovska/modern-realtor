@@ -88,6 +88,12 @@ const PurchaseAgreementForm = () => {
     };
 
     const handleDownload = () => { 
+            // if values empty, set isFormInvalid to true
+            setIsFormInvalid(Object.values(formValues).some((value) => value === ''));
+            if (Object.values(formValues).some((value) => value === '')) {
+                return;
+            }
+            
             // Initialize jsPDF instance
             const doc = new jsPDF();
         

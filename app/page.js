@@ -12,7 +12,7 @@ const Home = () => {
       <div>
         <Header />
       </div>
-      <div className="flex gap-5 mt-5">
+      <div className="flex gap-5 mt-5 justify-center">
         <Button onClick={()=>setTaskNumber(1)} className="bg-[--color-primary] text-white">Task 1</Button>
         <Button onClick={()=>setTaskNumber(2)} className="bg-[--color-primary] text-white">Task 2</Button>
         <Button onClick={()=>setTaskNumber(3)} className="bg-[--color-primary] text-white">Task 3</Button>
