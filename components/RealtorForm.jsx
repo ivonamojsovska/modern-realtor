@@ -1,5 +1,5 @@
 "use client";
-import React, {useState} from "react";
+import React, { useState } from "react";
 import { TextField, Button, Checkbox, FormControlLabel } from '@mui/material';
 
 // Convert object to PDF
@@ -423,10 +423,10 @@ const PurchaseAgreementForm = () => {
                     />
                 </div>
                 <div className='col-span-2 flex justify-center gap-5'>
-                    <Button type="submit" variant="contained" className="bg-[#4444f2] w-[150px]">
+                    <Button type="submit" variant="contained" className="bg-[--color-primary] w-[150px]">
                         Submit
                     </Button>
-                    <Button variant="contained" className="bg-[#4444f2] w-[150px]" onClick={handleDownload}>
+                    <Button variant="contained" className="bg-[--color-primary] w-[150px]" onClick={handleDownload}>
                         Download
                     </Button>
                 </div>

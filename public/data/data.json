@@ -1,0 +1,498 @@
+[
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/1e9792213d98fb326ec5afa2d2fa0c2b-p_e.jpg",
+      "address": "1655 2nd St UNIT 206, Napa, CA 94559",
+      "hdpData.homeInfo.city": "Napa",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/1655-2nd-St-UNIT-206-Napa-CA-94559/300140845_zpid/",
+      "price": "$950,000",
+      "statusType": "FOR_SALE",
+      "statusText": "Condo for sale",
+      "brokerName": "Golden Gate Sotheby's"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/9accef142c3cb83bf472a9922c5db68c-p_e.jpg",
+      "address": "849 Erin Way, Napa, CA 94559",
+      "hdpData.homeInfo.city": "Napa",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/849-Erin-Way-Napa-CA-94559/123742866_zpid/",
+      "price": "$1,150,000",
+      "statusType": "FOR_SALE",
+      "statusText": "House for sale",
+      "brokerName": "eXp Realty of California, Inc"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/4f8a748d4f28e08b6ccaa52c80fc668f-p_e.jpg",
+      "address": "3015 E Bayshore Rd SPACE 436, Redwood City, CA 94063",
+      "hdpData.homeInfo.city": "Redwood City",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/3015-E-Bayshore-Rd-SPACE-436-Redwood-City-CA-94063/350464605_zpid/",
+      "price": "$359,000",
+      "statusType": "FOR_SALE",
+      "statusText": "Home for sale"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/8c4c491f7f16961b698e9ba24f17da1b-p_e.jpg",
+      "address": "362 Redwood Ave, Corte Madera, CA 94925",
+      "hdpData.homeInfo.city": "Corte Madera",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/362-Redwood-Ave-Corte-Madera-CA-94925/19252967_zpid/",
+      "price": "$1,199,000",
+      "statusType": "FOR_SALE",
+      "statusText": "House for sale",
+      "brokerName": "Compass"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/3e3c2a8104513fe43cac0def5b60968f-p_e.jpg",
+      "address": "17020 Melody Ln, Los Gatos, CA 95033",
+      "hdpData.homeInfo.city": "Los Gatos",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/17020-Melody-Ln-Los-Gatos-CA-95033/19752548_zpid/",
+      "price": "$1,650,000",
+      "statusType": "FOR_SALE",
+      "statusText": "House for sale"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/d535119502949b65fb606eb2da3ddf1f-p_e.jpg",
+      "address": "16700 Laurel Rd, Los Gatos, CA 95033",
+      "hdpData.homeInfo.city": "Los Gatos",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/16700-Laurel-Rd-Los-Gatos-CA-95033/16161278_zpid/",
+      "price": "$1,300,000",
+      "statusType": "FOR_SALE",
+      "statusText": "House for sale"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/11fc08b1934ec2b7d61e965f88448c5a-p_e.jpg",
+      "address": "1499 California St, San Francisco, CA 94109",
+      "hdpData.homeInfo.city": "San Francisco",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/1499-California-St-San-Francisco-CA-94109/2090915092_zpid/",
+      "price": "$13,900,000",
+      "statusType": "FOR_SALE",
+      "statusText": "Multi-family home for sale",
+      "brokerName": "Colliers International"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/7bc1f2f6cc90105ea95099d4a382e998-p_e.jpg",
+      "address": "4 Rainbow Ln, Mill Valley, CA 94941",
+      "hdpData.homeInfo.city": "Mill Valley",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/4-Rainbow-Ln-Mill-Valley-CA-94941/19255756_zpid/",
+      "price": "$2,395,000",
+      "statusType": "FOR_SALE",
+      "statusText": "House for sale",
+      "brokerName": "Compass"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/d4fa7373569c1dfdc0be57a671c80dc5-p_e.jpg",
+      "address": "605 Concord Way, Burlingame, CA 94010",
+      "hdpData.homeInfo.city": "Burlingame",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/605-Concord-Way-Burlingame-CA-94010/15518243_zpid/",
+      "price": "$2,288,000",
+      "statusType": "FOR_SALE",
+      "statusText": "House for sale"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/2f1ece5419a803fdb7ff4d1536993313-p_e.jpg",
+      "address": "5416 Walnut Blossom Dr, San Jose, CA 95123",
+      "hdpData.homeInfo.city": "San Jose",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/5416-Walnut-Blossom-Dr-San-Jose-CA-95123/19825371_zpid/",
+      "price": "$1,295,999",
+      "statusType": "FOR_SALE",
+      "statusText": "House for sale"
+    },
+    {
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=37.7480354309082,-122.41322326660156&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=ucSK2zWllQy5SABXplfH072P7_w=",
+      "address": "3183 Cesar Chavez St #1, San Francisco, CA 94110",
+      "hdpData.homeInfo.city": "San Francisco",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/3183-Cesar-Chavez-St-1-San-Francisco-CA-94110/15159690_zpid/",
+      "price": "$745,000",
+      "statusType": "FOR_SALE",
+      "statusText": "Condo for sale",
+      "brokerName": "Coldwell Banker Realty"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/4e94db7c39c762a2ffe76c24a814246a-p_e.jpg",
+      "address": "12355 Stonebrook Dr, Los Altos Hills, CA 94022",
+      "hdpData.homeInfo.city": "Los Altos Hills",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/12355-Stonebrook-Dr-Los-Altos-Hills-CA-94022/19629176_zpid/",
+      "price": "$12,500,000",
+      "statusType": "FOR_SALE",
+      "statusText": "New construction"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/bbc7edc05f421ac7f5af143eb527481b-p_e.jpg",
+      "address": "1237 Montmorency Dr, San Jose, CA 95118",
+      "hdpData.homeInfo.city": "San Jose",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/1237-Montmorency-Dr-San-Jose-CA-95118/112093121_zpid/",
+      "price": "$1,599,888",
+      "statusType": "FOR_SALE",
+      "statusText": "House for sale"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/66a999ac0b16dd43555eff1131fcbb1f-p_e.jpg",
+      "address": "1019 Rio Vista Dr, Pacifica, CA 94044",
+      "hdpData.homeInfo.city": "Pacifica",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/1019-Rio-Vista-Dr-Pacifica-CA-94044/15506276_zpid/",
+      "price": "$1,075,000",
+      "statusType": "FOR_SALE",
+      "statusText": "House for sale"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/7c90126caeb785c0341eedf420ffdbda-p_e.jpg",
+      "address": "1087 Summerain Ct, San Jose, CA 95122",
+      "hdpData.homeInfo.city": "San Jose",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/1087-Summerain-Ct-San-Jose-CA-95122/19717395_zpid/",
+      "price": "$725,000",
+      "statusType": "FOR_SALE",
+      "statusText": "Townhouse for sale"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/1a43de756aae0fafe666e932e4e36398-p_e.jpg",
+      "address": "935 Kearny St, San Francisco, CA 94133",
+      "hdpData.homeInfo.city": "San Francisco",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/935-Kearny-St-San-Francisco-CA-94133/350460632_zpid/",
+      "price": "$20,000,000",
+      "statusType": "FOR_SALE",
+      "statusText": "Multi-family home for sale",
+      "brokerName": "Colliers International"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/cdb53cff3a288b6756bb3d02eae99d82-p_e.jpg",
+      "address": "699 Hawthorne Dr, Tiburon, CA 94920",
+      "hdpData.homeInfo.city": "Tiburon",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/699-Hawthorne-Dr-Tiburon-CA-94920/19266906_zpid/",
+      "price": "$1,499,000",
+      "statusType": "FOR_SALE",
+      "statusText": "House for sale",
+      "brokerName": "Compass"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/693bfdebef84dc77635ac452df01da0e-p_e.jpg",
+      "address": "280 Keeler Ct, San Jose, CA 95139",
+      "hdpData.homeInfo.city": "San Jose",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/280-Keeler-Ct-San-Jose-CA-95139/19842722_zpid/",
+      "price": "$1,795,000",
+      "statusType": "FOR_SALE",
+      "statusText": "House for sale"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/382e8d9c9c6522e8ed649a6e063a7558-p_e.jpg",
+      "address": "4261 Mackin Woods Ln, San Jose, CA 95135",
+      "hdpData.homeInfo.city": "San Jose",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/4261-Mackin-Woods-Ln-San-Jose-CA-95135/19797133_zpid/",
+      "price": "$2,799,888",
+      "statusType": "FOR_SALE",
+      "statusText": "House for sale"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/9ca6b8f6b1df8c0387a013a26aa60557-p_e.jpg",
+      "address": "75 Roundtree Blvd, San Rafael, CA 94903",
+      "hdpData.homeInfo.city": "San Rafael",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/75-Roundtree-Blvd-San-Rafael-CA-94903/19295171_zpid/",
+      "price": "$479,000",
+      "statusType": "FOR_SALE",
+      "statusText": "Condo for sale",
+      "brokerName": "Descalso Real Estate"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/7bce10378649b69489e4cb337e92fe78-p_e.jpg",
+      "address": "100 Belle View Ave, Petaluma, CA 94952",
+      "hdpData.homeInfo.city": "Petaluma",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/100-Belle-View-Ave-Petaluma-CA-94952/15754140_zpid/",
+      "price": "$929,850",
+      "statusType": "FOR_SALE",
+      "statusText": "House for sale",
+      "brokerName": "NavigateRE"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/aeb22fcccbcae6d4a761fc7297c7c9af-p_e.jpg",
+      "address": "0 China Grade Rd, Boulder Creek, CA 95006",
+      "hdpData.homeInfo.city": "Boulder Creek",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/0-China-Grade-Rd-Boulder-Creek-CA-95006/2060764224_zpid/",
+      "price": "$12,000",
+      "statusType": "FOR_SALE",
+      "statusText": "Lot / Land for sale"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/2867a916160ed259885aae0401d051fa-p_e.jpg",
+      "address": "2681 Flintwood Ct, San Jose, CA 95148",
+      "hdpData.homeInfo.city": "San Jose",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/2681-Flintwood-Ct-San-Jose-CA-95148/19788016_zpid/",
+      "price": "$1,250,000",
+      "statusType": "FOR_SALE",
+      "statusText": "House for sale"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/253712368ea0ded4dc592d17f2a2f584-p_e.jpg",
+      "address": "1883 Agnew Rd UNIT 259, Santa Clara, CA 95054",
+      "hdpData.homeInfo.city": "Santa Clara",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/1883-Agnew-Rd-UNIT-259-Santa-Clara-CA-95054/79842602_zpid/",
+      "price": "$890,000",
+      "statusType": "FOR_SALE",
+      "statusText": "Condo for sale"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/544cb2fc293858347de01248216597b5-p_e.jpg",
+      "address": "1693 Higgins Way, Pacifica, CA 94044",
+      "hdpData.homeInfo.city": "Pacifica",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/1693-Higgins-Way-Pacifica-CA-94044/181368679_zpid/",
+      "price": "$7,499,000",
+      "statusType": "FOR_SALE",
+      "statusText": "New construction"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/2ce5f103caeede6c106dbdbeecd64d7a-p_e.jpg",
+      "address": "436 Mahoney Dr, San Jose, CA 95127",
+      "hdpData.homeInfo.city": "San Jose",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/436-Mahoney-Dr-San-Jose-CA-95127/19782613_zpid/",
+      "price": "$1,289,000",
+      "statusType": "FOR_SALE",
+      "statusText": "House for sale"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/9b06b79c96da7276803a48fb85813190-p_e.jpg",
+      "address": "4 Maria Ct, Novato, CA 94945",
+      "hdpData.homeInfo.city": "Novato",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/4-Maria-Ct-Novato-CA-94945/19276379_zpid/",
+      "price": "$1,179,000",
+      "statusType": "FOR_SALE",
+      "statusText": "House for sale",
+      "brokerName": "Marin's Finest"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/154b34018516377de392334f150ab975-p_e.jpg",
+      "address": "588 Minna St #705, San Francisco, CA 94103",
+      "hdpData.homeInfo.city": "San Francisco",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/588-Minna-St-705-San-Francisco-CA-94103/337887939_zpid/",
+      "price": "$475,000",
+      "statusType": "FOR_SALE",
+      "statusText": "New construction",
+      "brokerName": "Vanguard Properties"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/46c818c18feae365c6e13bf51b41988c-p_e.jpg",
+      "address": "10038 Dove Oak Ct, Cupertino, CA 95014",
+      "hdpData.homeInfo.city": "Cupertino",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/10038-Dove-Oak-Ct-Cupertino-CA-95014/19631168_zpid/",
+      "price": "$1,498,000",
+      "statusType": "FOR_SALE",
+      "statusText": "Townhouse for sale"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/b79c80c3caae44d0db9fe4cef51e016a-p_e.jpg",
+      "address": "1777 Lafayette St UNIT 118, Santa Clara, CA 95050",
+      "hdpData.homeInfo.city": "Santa Clara",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/1777-Lafayette-St-UNIT-118-Santa-Clara-CA-95050/64592787_zpid/",
+      "price": "$710,000",
+      "statusType": "FOR_SALE",
+      "statusText": "Condo for sale"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/6ce4937e499a72ea25fc43cd0b8f62f1-p_e.jpg",
+      "address": "18400 Overlook Rd UNIT 70, Los Gatos, CA 95030",
+      "hdpData.homeInfo.city": "Los Gatos",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/18400-Overlook-Rd-UNIT-70-Los-Gatos-CA-95030/19744309_zpid/",
+      "price": "$1,780,000",
+      "statusType": "FOR_SALE",
+      "statusText": "Townhouse for sale"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/88667f72ebf5a44de3fba9a2dd485cc1-p_e.jpg",
+      "address": "701 Amherst Cir, Sonoma, CA 95476",
+      "hdpData.homeInfo.city": "Sonoma",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/701-Amherst-Cir-Sonoma-CA-95476/15798530_zpid/",
+      "price": "$975,000",
+      "statusType": "FOR_SALE",
+      "statusText": "House for sale",
+      "brokerName": "Compass"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/05751f691b837704cdab76d150e1677e-p_e.jpg",
+      "address": "150 Saint Elmo Way, San Francisco, CA 94127",
+      "hdpData.homeInfo.city": "San Francisco",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/150-Saint-Elmo-Way-San-Francisco-CA-94127/15137482_zpid/",
+      "price": "$2,495,000",
+      "statusType": "FOR_SALE",
+      "statusText": "House for sale",
+      "brokerName": "Sotheby's International Realty"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/164848850dda5f9bb179dbd7afbe6826-p_e.jpg",
+      "address": "1695 Higgins Way, Pacifica, CA 94044",
+      "hdpData.homeInfo.city": "Pacifica",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/1695-Higgins-Way-Pacifica-CA-94044/2053241517_zpid/",
+      "price": "$6,995,000",
+      "statusType": "FOR_SALE",
+      "statusText": "New construction"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/871ef107b7938e7c36c6b768b82588ae-p_e.jpg",
+      "address": "14th St, Oakland, CA 94612",
+      "hdpData.homeInfo.city": "Oakland",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/14th-St-Oakland-CA-94612/350452859_zpid/",
+      "price": "$1,050,000",
+      "statusType": "FOR_SALE",
+      "statusText": "Multi-family home for sale"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/442c7afe6333fe472fd8e474e7388384-p_e.jpg",
+      "address": "280 Pickett St, Sonoma, CA 95476",
+      "hdpData.homeInfo.city": "Sonoma",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/280-Pickett-St-Sonoma-CA-95476/15829843_zpid/",
+      "price": "$815,000",
+      "statusType": "FOR_SALE",
+      "statusText": "House for sale",
+      "brokerName": "Compass"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/7d1347f35cb2ad968ca1fad5cef7e003-p_e.jpg",
+      "address": "481-483 Morse Ave, Sunnyvale, CA 94085",
+      "hdpData.homeInfo.city": "Sunnyvale",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/481-483-Morse-Ave-Sunnyvale-CA-94085/2060761571_zpid/",
+      "price": "$2,200,000",
+      "statusType": "FOR_SALE",
+      "statusText": "Multi-family home for sale"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/ba02606e426bfb4966eedc6d4525db84-p_e.jpg",
+      "address": "17371 High Rd, Sonoma, CA 95476",
+      "hdpData.homeInfo.city": "Sonoma",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/17371-High-Rd-Sonoma-CA-95476/15828286_zpid/",
+      "price": "$3,098,000",
+      "statusType": "FOR_SALE",
+      "statusText": "House for sale",
+      "brokerName": "Engel & Volkers"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/c00fafa7fd6a79a811038535f50e3ad3-p_e.jpg",
+      "address": "966 Twin Brook Dr, San Jose, CA 95126",
+      "hdpData.homeInfo.city": "San Jose",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/966-Twin-Brook-Dr-San-Jose-CA-95126/19579128_zpid/",
+      "price": "$1,699,000",
+      "statusType": "FOR_SALE",
+      "statusText": "House for sale"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/a97cbcb8beb1a08783c66d5ddf398ed3-p_e.jpg",
+      "address": "135 Destry Ct, San Jose, CA 95136",
+      "hdpData.homeInfo.city": "San Jose",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/135-Destry-Ct-San-Jose-CA-95136/19818295_zpid/",
+      "price": "$1,695,000",
+      "statusType": "FOR_SALE",
+      "statusText": "House for sale"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/85aedd660d9b09c2968c57b81b93b553-p_e.jpg",
+      "address": "1644 Town Club Dr, San Jose, CA 95124",
+      "hdpData.homeInfo.city": "San Jose",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/1644-Town-Club-Dr-San-Jose-CA-95124/19694564_zpid/",
+      "price": "$1,299,000",
+      "statusType": "FOR_SALE",
+      "statusText": "House for sale"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/62315a5287bc0d5450dd11267b0b6bef-p_e.jpg",
+      "address": "0 10th St, Montara, CA 94037",
+      "hdpData.homeInfo.city": "Montara",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/0-10th-St-Montara-CA-94037/2084646090_zpid/",
+      "price": "$300,000",
+      "statusType": "FOR_SALE",
+      "statusText": "Lot / Land for sale"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/f54559ed0809833cef25c9f5123f5a3d-p_e.jpg",
+      "address": "675 Linda Mar Blvd, Pacifica, CA 94044",
+      "hdpData.homeInfo.city": "Pacifica",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/675-Linda-Mar-Blvd-Pacifica-CA-94044/15503406_zpid/",
+      "price": "$1,198,000",
+      "statusType": "FOR_SALE",
+      "statusText": "House for sale"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/3e12aaad49f23e0295a685a3689f528d-p_e.jpg",
+      "address": "712 Corona Dr, Pacifica, CA 94044",
+      "hdpData.homeInfo.city": "Pacifica",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/712-Corona-Dr-Pacifica-CA-94044/15503481_zpid/",
+      "price": "$3,450,000",
+      "statusType": "FOR_SALE",
+      "statusText": "House for sale"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/6d153cc0d7489080e32b9ff08a38e42c-p_e.jpg",
+      "address": "1260 Le Conte Ave, Montara, CA 94037",
+      "hdpData.homeInfo.city": "Montara",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/1260-Le-Conte-Ave-Montara-CA-94037/95270814_zpid/",
+      "price": "$1,699,000",
+      "statusType": "FOR_SALE",
+      "statusText": "House for sale"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/6cbbbc8654ceb087a0241d53480b6d1f-p_e.jpg",
+      "address": "104 Barranca St #104, Moss Beach, CA 94038",
+      "hdpData.homeInfo.city": "Moss Beach",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/104-Barranca-St-104-Moss-Beach-CA-94038/350216076_zpid/",
+      "price": "$490,000",
+      "statusType": "FOR_SALE",
+      "statusText": "Home for sale"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/abfaa7c1e3c3f273ea4420d0341be250-p_e.jpg",
+      "address": "851 Arguello Blvd, Pacifica, CA 94044",
+      "hdpData.homeInfo.city": "Pacifica",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/851-Arguello-Blvd-Pacifica-CA-94044/15505398_zpid/",
+      "price": "$1,298,000",
+      "statusType": "FOR_SALE",
+      "statusText": "House for sale"
+    },
+    {
+      "imgSrc": "https://photos.zillowstatic.com/fp/cff95d3ef41343da02fffe1e694811f8-p_e.jpg",
+      "address": "212 Shoreview Ave, Pacifica, CA 94044",
+      "hdpData.homeInfo.city": "Pacifica",
+      "hdpData.homeInfo.state": "CA",
+      "detailUrl": "https://www.zillow.com/homedetails/212-Shoreview-Ave-Pacifica-CA-94044/15476259_zpid/",
+      "price": "$2,000,000",
+      "statusType": "FOR_SALE",
+      "statusText": "House for sale"
+    }
+  ]
