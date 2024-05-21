@@ -11,7 +11,6 @@
 
 ## Installation
 
-To install the component, run:
+To install the project, run:
 
-git clone git@github.com:ivonamojsovska/modern-realtor.git
-cd modern-realtor
+git clone git@github.com:ivonamojsovska/modern-realtor.git then cd modern-realtor
