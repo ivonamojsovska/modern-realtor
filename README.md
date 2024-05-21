@@ -11,8 +11,11 @@
 
 - **Select Address**: Select the desired address to see the house details.
 
-## Installation
+## Run project locally
 
-To install the project, run:
+To run the project locally: 
 
-git clone git@github.com:ivonamojsovska/modern-realtor.git then cd modern-realtor
+- 1.git clone git@github.com:ivonamojsovska/modern-realtor.git
+- 2.cd modern-realtor
+- 3.npm install to install all dependencies
+- 4.npm run dev
