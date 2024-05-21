@@ -1,7 +1,8 @@
 "use client";
 import React, {useState} from "react";
-import { TextField, FormControl, InputLabel, Select, MenuItem, FormHelperText, Button, Checkbox, FormControlLabel  } from '@mui/material';
+import { TextField, Button, Checkbox, FormControlLabel } from '@mui/material';
 
+// Convert object to PDF
 import { jsPDF } from "jspdf";
 import "jspdf-autotable";
 
@@ -55,7 +56,6 @@ const PurchaseAgreementForm = () => {
     const handleFormSubmit = (values) => {
         console.log(values);
         // if values empty, set isFormInvalid to true
-        // else, set isFormInvalid to false
         setIsFormInvalid(Object.values(values).some((value) => value === ''));
         setFormValues({
             datePrepared: '',

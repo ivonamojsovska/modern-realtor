@@ -1,6 +1,17 @@
-- Reference: [California-Residential-Purchase-Agreement-Realtor-Version.pdf](California-Residential-Purchase-Agreement-Realtor-Version.pdf).
-- Implement a walkthrough similar to TurboTax, explaining fields that need user input.
-- Example: Explain "THE REAL PROPERTY to be acquired is ___" with "1234 Main Street, Anytown, CA 12345, Lot 12 of Tract 345, Assessor's Parcel Number 678-901-234."
-- Provide a button to download the filled-in PDF from the browser.
-- Reference the current offer page implementation on modernrealtor.co for comparison. Yours should look better than mine though.
-- If you prefer, you may also generate a brand new form with similar text instead of filling in the existing CAR RPA.
+# Modern Realtor Form Submition Page
+
+## This Next.js component allows users to create and submit forms for real estate transactions.
+
+## Features
+
+- **Form Creation**: Easily create forms for different types of real estate transactions.
+- **Form Submission**: Submit forms with relevant information for processing.
+- **Validation**: Validate form fields to ensure accurate data submission.
+- **Download**: Download submitted forms in PDF format for record-keeping.
+
+## Installation
+
+To install the component, run:
+
+git clone git@github.com:ivonamojsovska/modern-realtor.git
+cd modern-realtor
